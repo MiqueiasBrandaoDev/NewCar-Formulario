@@ -7,3 +7,6 @@ Js inserido para notificação modelo
 
 Segue imagem do projeto
 ![screenshot](https://github.com/MiqueiasBrandaoDev/NewCar-Formulario/assets/146373700/b9db721d-783a-473a-9642-52e6acd6c2f2)
+
+
+![screenshot (1)](https://github.com/MiqueiasBrandaoDev/NewCar-Formulario/assets/146373700/fda1be7e-979f-418f-a218-772227a6764f)
